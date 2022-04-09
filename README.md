@@ -1,5 +1,2 @@
-# rplace2022
-
-hello world
-
-Hello Zalameda
+# This Repository Has Moved
+## Go to the new organization: https://github.com/r-ganization
